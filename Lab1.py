@@ -1,1 +1,1 @@
-print("ET07035-DevOps is a DCPE module")
+print("ET07035-DevOps for AIoT")
